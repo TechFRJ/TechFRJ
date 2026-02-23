@@ -1,7 +1,7 @@
 <h1 align="center">⚙️🔥 Fernando | Fullmetal Developer 🔥⚙️</h1>
 
 <p align="center">
-  <img src="https://i.gifer.com/7efs.gif](https://i.gifer.com/1AFF.gif)" width="300px" />
+  <img src="https://i.gifer.com/1AFF.gif" width="300px" />
 </p>
 
 <p align="center">
