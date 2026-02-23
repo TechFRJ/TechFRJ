@@ -34,7 +34,6 @@ Meu objetivo é evoluir constantemente como programador e criar soluções intel
 - 🌐 JavaScript
 - 🎨 HTML & CSS
 - 🐧 Linux
-- 🔐 Segurança / Hacking Ético
 - 🤖 Automação (n8n, bots)
 - 📊 Lógica de Programação
 
@@ -72,35 +71,19 @@ Na programação:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" />
 </p>
 
-⚠️ Troque `SEU_USUARIO` pelo seu username do GitHub.
+⚠️ Troque TechFRJ pelo seu username do GitHub.
 
 ---
 
 ## 📂 Projetos em Destaque
 
-### 🧠 Sistema de Automação
-> Automação de processos usando Python + n8n
+### 
 
-### 🔐 Estudos em Segurança
-> Laboratórios de Pentest e redes
+### 
 
-### 🤖 Bots Inteligentes
-> WhatsApp, Telegram e APIs
+### 
 
 📌 Veja todos nos meus repositórios!
-
----
-
-## 🧬 Evolução Contínua
-
-<p align="center">
-  <img src="https://media.tenor.com/5j6H4U5B2UsAAAAC/fullmetal-alchemist-brotherhood.gif" width="350px"/>
-</p>
-
-✔️ Estudo diário  
-✔️ Projetos reais  
-✔️ Prática constante  
-✔️ Mentalidade de crescimento  
 
 ---
 
@@ -129,11 +112,5 @@ Na programação:
 > ❝ A verdadeira transmutação é transformar conhecimento em impacto. ❞
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=red&style=flat-square" />
-</p>
-
-<p align="center">
-  ⚙️ Desenvolvido com disciplina, estudo e paixão por tecnologia.
+ina, estudo e paixão por tecnologia.
 </p>
